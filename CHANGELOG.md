@@ -1,3 +1,10 @@
+# [7.19.0](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/compare/v7.18.1...v7.19.0) (2023-06-07)
+
+
+### Features
+
+* **version bump:** version bump ([2aaf3ef](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/commit/2aaf3efc6cae6fec5412b766b98ce6c84e030135))
+
 # [7.18.0](https://github.com/e-Spirit/fsxa-nuxt-module/compare/v7.17.5...v7.18.0) (2023-05-10)
 
 
