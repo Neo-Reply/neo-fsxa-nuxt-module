@@ -1,3 +1,5 @@
+# This is a fork from https://github.com/e-Spirit/fsxa-nuxt-module using the @neo-reply/fsxa-pattern-library
+
 # FSXA-Nuxt-Module
 
 This module is integrating the [FSXA-Pattern-Library](https://github.com/e-Spirit/fsxa-pattern-library).
@@ -57,7 +59,7 @@ So if you don't have a `store/index.(js/ts)` file yet, create it.
 In addition, it is necessary that in the nuxtServerInit action of the Vuex store, the FSXA module of the FSXA pattern library is populated with the data from the SSR context.
 
 ```typescript
-import { FSXAActions } from "fsxa-pattern-library";
+import { FSXAActions } from "@neo-reply/fsxa-pattern-library";
 
 nuxtServerInit(_, { store }) {
     // if you do have your nextServerInit already in place make sure to include this line
