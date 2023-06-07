@@ -1,6 +1,6 @@
 {
   "name": "@neo-reply/fsxa-nuxt-module",
-  "version": "7.18.1",
+  "version": "7.19.0",
   "description": "",
   "main": "./dist/module/index.js",
   "typings": "dist/index.d.ts",
