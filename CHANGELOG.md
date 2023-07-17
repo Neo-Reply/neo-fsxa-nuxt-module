@@ -1,3 +1,10 @@
+## [7.20.1](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/compare/v7.20.0...v7.20.1) (2023-07-17)
+
+
+### Bug Fixes
+
+* **package.json:** fix reference to  @neo-reply/fsxa-pattern-library ([1b71539](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/commit/1b715393139d6105e2b1718101d67443d19067d6))
+
 # [7.20.0](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/compare/v7.19.0...v7.20.0) (2023-07-17)
 
 
