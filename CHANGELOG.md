@@ -1,3 +1,17 @@
+# [7.20.0](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/compare/v7.19.0...v7.20.0) (2023-07-17)
+
+
+### Bug Fixes
+
+* **dependencies:** update fsxa stack ([#114](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/issues/114)) ([1790620](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/commit/17906205fc69df3e3a1af7585d4c126ac1784f0e))
+
+
+### Features
+
+* **dependencies:** update fsxa dependencies ([#112](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/issues/112)) ([b8847ce](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/commit/b8847ced1b0b698064528e8773cac75d48ea43a8))
+* **dependencies:** update fsxa stack ([#113](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/issues/113)) ([6894033](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/commit/68940337a9afa3dc520e051c547ceb987d3ec7b7))
+* **dependencies:** update fsxa stack ([#116](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/issues/116)) ([c56f386](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/commit/c56f38630196c92c13bb780501b19a9a9891f9d3))
+
 # [7.21.0](https://github.com/e-Spirit/fsxa-nuxt-module/compare/v7.20.1...v7.21.0) (2023-06-22)
 
 
