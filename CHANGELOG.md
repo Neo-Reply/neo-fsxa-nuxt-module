@@ -1,3 +1,10 @@
+# [7.21.0](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/compare/v7.20.1...v7.21.0) (2023-08-16)
+
+
+### Features
+
+* **dependencies:** update pattern-lib to newest version 8.21.2 ([21fa7df](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/commit/21fa7df2629e28c703cff61d279c1d0b1ba13f2c))
+
 ## [7.20.1](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/compare/v7.20.0...v7.20.1) (2023-07-17)
 
 
