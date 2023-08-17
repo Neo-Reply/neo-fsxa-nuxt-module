@@ -1,3 +1,10 @@
+## [7.21.1](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/compare/v7.21.0...v7.21.1) (2023-08-17)
+
+
+### Bug Fixes
+
+* **dependencies:** update pattern-lib dependency ([#3](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/issues/3)) ([3fc679b](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/commit/3fc679b56bbff182f417bdfe4680a57d04de0e6f))
+
 # [7.21.0](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/compare/v7.20.1...v7.21.0) (2023-08-16)
 
 
