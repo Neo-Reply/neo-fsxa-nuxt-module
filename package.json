@@ -1,6 +1,6 @@
 {
   "name": "@neo-reply/fsxa-nuxt-module",
-  "version": "7.21.1",
+  "version": "8.0.0-alpha.2",
   "description": "",
   "main": "./dist/module/index.js",
   "typings": "dist/index.d.ts",
@@ -61,6 +61,8 @@
     "commitizen": "^4.2.4",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^6.11.0",
+    "fsxa-api": "^10.16.0",
+    "fsxa-pattern-library": "npm:@neo-reply/fsxa-pattern-library@^9.0.0",
     "husky": "^4.2.5",
     "jest": "^27.4.7",
     "lint-staged": "^10.2.11",
@@ -74,12 +76,13 @@
   "dependencies": {
     "cross-fetch": "^3.1.5",
     "express": "^4.17.1",
-    "fsxa-api": "^10.16.0",
-    "fsxa-pattern-library": "npm:@neo-reply/fsxa-pattern-library@^8.21.3",
     "lodash.camelcase": "^4.3.0",
     "lodash.merge": "^4.6.2",
     "lodash.startcase": "^4.4.0",
     "vuex": "^3.6.2"
+  },
+  "peerDependencies": {
+    "fsxa-api": "^10.16.0"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
