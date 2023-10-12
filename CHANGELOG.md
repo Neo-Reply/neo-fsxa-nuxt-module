@@ -1,3 +1,16 @@
+# [8.0.0](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/compare/v7.21.1...v8.0.0) (2023-10-12)
+
+
+* fsxa dependencies (#4) ([6443c8e](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/commit/6443c8ec79935737462a53f68df2da95d317cd4b)), closes [#4](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/issues/4)
+
+
+### BREAKING CHANGES
+
+* fsxa dependencies moved to peer & dev dependencies
+
+You need to add the fsxa-api / neo-fsxa-pattern-library to your pwa package.json as needed for your project (devDependency / dependency)
+* chore(fixed version): fix version
+
 ## [7.21.1](https://github.com/Neo-Reply/neo-fsxa-nuxt-module/compare/v7.21.0...v7.21.1) (2023-08-17)
 
 
